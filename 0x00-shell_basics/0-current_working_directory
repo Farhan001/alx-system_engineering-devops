@@ -1,3 +1,2 @@
 #!/bin/bash
-currentWD="$(pwd)"
-echo "/root$currentWD"
+echo "/root$(pwd)"
