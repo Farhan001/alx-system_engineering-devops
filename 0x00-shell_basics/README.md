@@ -6,3 +6,4 @@
 5. 4-listmorefiles: Print contents of working directory incluidng hiddend files, in long format
 6. 5-listfilesdigitonly: Print contents in working directory including hidden files, in long format and arranged numerically
 7. 6-firstdirectory: Make a directory in tmp dir
+8. 7-movethatfile: Move a file betty to a created tmp dir
