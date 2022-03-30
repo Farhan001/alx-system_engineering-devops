@@ -4,3 +4,4 @@
 3. 2-bring_me_home: Changes the current working directory to the hom directpry (which is /root in this case)
 4. 3-listfiles: Prints the contents of the current directory in long format
 5. 4-listmorefiles: Print contents of working directory incluidng hiddend files, in long format
+6. 5-listfilesdigitonly: Print contents in working directory including hidden files, in long format and arranged numerically
