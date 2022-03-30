@@ -1,4 +1,3 @@
 #!/bin/bash
 currentWD="$(pwd)"
-absoluteWD="/root$currentWD"
-echo "$absoluteWD"
+echo "/root$currentWD"
