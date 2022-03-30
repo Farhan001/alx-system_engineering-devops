@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lac --author
+ls -la -c --author
