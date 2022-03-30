@@ -8,3 +8,4 @@
 7. 6-firstdirectory: Make a directory in tmp dir
 8. 7-movethatfile: Move a file betty to a created tmp dir
 9. 8-firstdelete: Delete a file in a directory
+10. 9-firstdirdeletion: Delete an existing directory`
