@@ -10,3 +10,4 @@
 9. 8-firstdelete: Delete a file in a directory
 10. 9-firstdirdeletion: Delete an existing directory
 11. 10-back: Move the dir back to the previous one
+12. 11-lists: Print out contents in current, parent and boot dir
