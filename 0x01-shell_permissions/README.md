@@ -4,3 +4,4 @@
 3. 2-groups: To display all the groups that a user is part of
 4. 3-new_owner: To change the owner of a file to another user
 5. 4-empty: Create a empty file
+6. 5-execute: change the permission of a file
