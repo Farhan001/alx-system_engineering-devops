@@ -8,3 +8,4 @@
 7. 6-multiple_permissions: Change the permission of a file
 8. 7-everybody: Give executino rights to everybody
 9. 8-James_Bond: To give only others all the permissions
+10. 9-John_Doe: To change permission to given instructions
