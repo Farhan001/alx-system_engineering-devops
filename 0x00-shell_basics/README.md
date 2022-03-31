@@ -11,3 +11,4 @@
 10. 9-firstdirdeletion: Delete an existing directory
 11. 10-back: Move the dir back to the previous one
 12. 11-lists: Print out contents in current, parent and boot dir
+13. 12-file_type: Outputs the type of file a file is
