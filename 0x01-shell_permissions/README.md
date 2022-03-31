@@ -11,3 +11,4 @@
 10. 9-John_Doe: To change permission to given instructions
 11. 10-mirror_permissions: To set permission of a file to the permission of a reference file
 12. 11-directories_permissions: To give all subdirectories execution permission
+13. 12-directory_permissions: To makea dir and set it to a given permission
