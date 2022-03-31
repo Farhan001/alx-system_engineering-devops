@@ -9,3 +9,4 @@
 8. 7-everybody: Give executino rights to everybody
 9. 8-James_Bond: To give only others all the permissions
 10. 9-John_Doe: To change permission to given instructions
+11. 10-mirror_permissions: To set permission of a file to the permission of a reference file
