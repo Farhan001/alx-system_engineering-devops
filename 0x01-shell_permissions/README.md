@@ -6,3 +6,4 @@
 5. 4-empty: Create a empty file
 6. 5-execute: change the permission of a file
 7. 6-multiple_permissions: Change the permission of a file
+8. 7-everybody: Give executino rights to everybody
