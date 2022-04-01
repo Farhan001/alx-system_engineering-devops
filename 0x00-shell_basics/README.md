@@ -13,3 +13,4 @@
 12. 11-lists: Print out contents in current, parent and boot dir
 13. 12-file_type: Outputs the type of file a file is
 14. 13-symbolic_link: Create a symbolic link to a file
+15. 14-copy_list: Copy all html files in a dir to the parent dir
